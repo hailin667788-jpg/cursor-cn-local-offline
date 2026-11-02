@@ -1,0 +1,8 @@
+This project is derived from zhanpoint/cursor-cn at commit
+f98532a638c3f06aaa51cb4dcd72de01ee94a82e (2026-10-28), licensed under MIT.
+
+Changes in this repository:
+- Removed the runtime Google Translate request from the plugin marketplace UI.
+- Updated documentation to disclose that Cursor application files are modified.
+
+The original copyright and MIT license remain in LICENSE.

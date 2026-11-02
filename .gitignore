@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.bak
+Cursor_Localization.js
+cursor_hanhua.js
+workbench.html
+product.json
+cursor-cn.config.json
+.DS_Store
+.cursor-cn-watch.*
